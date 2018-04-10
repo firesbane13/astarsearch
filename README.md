@@ -13,6 +13,9 @@ A* Search API in Node.js
 * npm install --save-dev nodemon
 * npm install express --save
 * npm install bodyParser --save
+* npm install heap --save
+* npm install dict --save
+* npm install Set --save
 
 ## Start Server
 * npm run start
